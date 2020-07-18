@@ -1,6 +1,6 @@
 ### Greetings! Everyone 👋
 
-
+![Ayon Moitra banner](https://github.com/moitra-ayon/moitra-ayon/blob/master/Ayon%20MOITRA.png?raw=true)
 
 - 🔭 I’m currently working on: Myself 🧐
 - 🌱 I’m currently learning: Flutter Dev 🍬
